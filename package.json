@@ -15,18 +15,18 @@
     "@react-navigation/bottom-tabs": "^7.18.14",
     "@react-navigation/elements": "^2.9.36",
     "@react-navigation/native": "^7.3.14",
-    "expo": "~57.0.8",
+    "expo": "~57.0.9",
     "expo-blur": "~57.0.2",
-    "expo-constants": "~57.0.7",
+    "expo-constants": "~57.0.8",
     "expo-font": "~57.0.1",
     "expo-haptics": "~57.0.1",
     "expo-image": "~57.0.1",
     "expo-linking": "~57.0.4",
-    "expo-router": "~57.0.8",
+    "expo-router": "~57.0.9",
     "expo-splash-screen": "~57.0.5",
     "expo-status-bar": "~57.0.1",
     "expo-symbols": "~57.0.1",
-    "expo-system-ui": "~57.0.1",
+    "expo-system-ui": "~57.0.2",
     "expo-web-browser": "~57.0.2",
     "react": "19.2.8",
     "react-dom": "19.2.8",
@@ -39,11 +39,11 @@
     "react-native-webview": "14.0.1"
   },
   "devDependencies": {
-    "@babel/core": "7.29.7",
-    "@types/react": "~19.2.17",
+    "@babel/core": "8.0.1",
+    "@types/react": "~19.2.18",
     "typescript": "~7.0.2",
     "eslint": "^10.8.0",
-    "eslint-config-expo": "~57.0.0"
+    "eslint-config-expo": "~57.0.1"
   },
   "private": true
 }
