@@ -25,3 +25,4 @@ expo-env.d.ts
 # @end expo-cli
 server.log
 npmInstall.log
+ncuLog.txt
